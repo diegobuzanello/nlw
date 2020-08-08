@@ -8,7 +8,7 @@
 
 ## Projeto
 
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+Desenvolvido com a [Rocketseat](https://rocketseat.com.br/) com o objetivo de aprofundar meus conhecimentos em React, React Native e Node. O projeto consiste na criação de um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
 ## Tecnologias
 
